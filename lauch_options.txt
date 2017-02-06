@@ -1,0 +1,1 @@
+-console -novid -tickrate 128 -refreshrate 144 -high -threads 3 -full -lv +cl_forcepreload 1 -nod3d9ex1 -nojoy +exec heck.cfg
